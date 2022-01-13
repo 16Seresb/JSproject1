@@ -9,18 +9,18 @@ class assetSetup {
     tileCount = 0;
   }
   setImg() {
-    path = loadImage("assets/groundTile.png");
-    tallGrass = loadImage("assets/grassTile.png");
-    bush = loadImage("assets/bushTile.png");
-    lawnOne = loadImage("assets/lawnOne.png");
-    upOne = loadImage("assets/upOne.png");
-    upTwo = loadImage("assets/upTwo.png");
-    downOne = loadImage("assets/downOne.png");
-    downTwo = loadImage("assets/downTwo.png");
-    leftOne = loadImage("assets/leftOne.png");
-    leftTwo = loadImage("assets/leftTwo.png");
-    rightOne = loadImage("assets/rightOne.png");
-    rightTwo = loadImage("assets/rightTwo.png");
+    path = loadImage("groundTile.png");
+    tallGrass = loadImage("grassTile.png");
+    bush = loadImage("bushTile.png");
+    lawnOne = loadImage("lawnOne.png");
+    upOne = loadImage("upOne.png");
+    upTwo = loadImage("upTwo.png");
+    downOne = loadImage("downOne.png");
+    downTwo = loadImage("downTwo.png");
+    leftOne = loadImage("leftOne.png");
+    leftTwo = loadImage("leftTwo.png");
+    rightOne = loadImage("rightOne.png");
+    rightTwo = loadImage("rightTwo.png");
   }
 
   battleScreen() {
